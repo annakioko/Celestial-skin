@@ -4,8 +4,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        "dark-mode": "#A6603A",
-        "light-mode": "#F0E68C",
+        "dark-mode": "#a6603a",
+        "light-mode": "#efe3b8",
       },
     },
   },
